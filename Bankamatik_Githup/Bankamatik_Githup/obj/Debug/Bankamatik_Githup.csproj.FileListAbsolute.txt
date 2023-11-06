@@ -1,0 +1,8 @@
+C:\Users\hızır\Desktop\Bankamatik_Githup\Bankamatik_Githup\bin\Debug\Bankamatik_Githup.exe.config
+C:\Users\hızır\Desktop\Bankamatik_Githup\Bankamatik_Githup\bin\Debug\Bankamatik_Githup.exe
+C:\Users\hızır\Desktop\Bankamatik_Githup\Bankamatik_Githup\bin\Debug\Bankamatik_Githup.pdb
+C:\Users\hızır\Desktop\Bankamatik_Githup\Bankamatik_Githup\obj\Debug\Bankamatik_Githup.csproj.AssemblyReference.cache
+C:\Users\hızır\Desktop\Bankamatik_Githup\Bankamatik_Githup\obj\Debug\Bankamatik_Githup.csproj.SuggestedBindingRedirects.cache
+C:\Users\hızır\Desktop\Bankamatik_Githup\Bankamatik_Githup\obj\Debug\Bankamatik_Githup.csproj.CoreCompileInputs.cache
+C:\Users\hızır\Desktop\Bankamatik_Githup\Bankamatik_Githup\obj\Debug\Bankamatik_Githup.exe
+C:\Users\hızır\Desktop\Bankamatik_Githup\Bankamatik_Githup\obj\Debug\Bankamatik_Githup.pdb
